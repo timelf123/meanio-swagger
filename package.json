@@ -1,5 +1,5 @@
 {
-    "name": "swagger",
+    "name": "meanio-swagger",
     "version": "0.0.1",
     "description": "Simple swagger implementation for mean.io",
     "author": {

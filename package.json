@@ -1,0 +1,17 @@
+{
+    "name": "swagger",
+    "version": "0.0.1",
+    "description": "Simple swagger implementation for mean.io",
+    "author": {
+        "name": "Justin Furniss"
+    },
+    "contributors": [{
+        "name": "Yonatan Ellman",
+        "email": "yonatan@nodeside.com"
+    }],
+    "mean": "0.7.0",
+    "dependencies": {
+        "swagger-node-express": "2.1.3"
+    },
+    "license": "MIT"
+}
